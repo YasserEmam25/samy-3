@@ -2597,8 +2597,7 @@ fieldset {
   position: relative;
   top: 40px;
   width: 100px;
-  height: 100px;
-  /* left: 16px; */
+  height: 100px;=
 }
 
 .fa-facebook,
