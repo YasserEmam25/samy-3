@@ -2595,6 +2595,7 @@ fieldset {
 
 .detail-icon {
   position: relative;
+  top: 40px;
   width: 100px;
   height: 100px;
 }
@@ -2602,14 +2603,11 @@ fieldset {
 .fa-facebook,
 .fa-link,
 .fa-phone {
-  top: 16px;
   left: 16px;
-  font-size: 50px;
 }
 
 .fa-instagram,
 .fa-whatsapp {
-  top: 16px;
   left: 14px;
 }
 
@@ -2625,11 +2623,6 @@ fieldset {
   flex: 0 0 auto;
   color: var(--contrasting-color);
   font-size: 1.25rem;
-}
-
-.detail-icon {
-  height: 50px;
-  width: 50px;
 }
 
 #phone-icon {
