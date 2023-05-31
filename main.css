@@ -2598,8 +2598,9 @@ fieldset {
   top: 40px;
   width: 100px;
   height: 100px;
+  left: 16px;
 }
-
+/* 
 .fa-facebook,
 .fa-link,
 .fa-phone {
@@ -2609,7 +2610,7 @@ fieldset {
 .fa-instagram,
 .fa-whatsapp {
   left: 14px;
-}
+} */
 
 .detail-list .detail-icon-circle {
   height: 50px;
